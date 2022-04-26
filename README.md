@@ -10,11 +10,11 @@ Simple minesweeper game built in html/css and JS
 
 <div style="display: flex; ">
 
-  <img src="./assets/s1.png" width="500" />
+  <img src="./assets/s1.png" width="300" />
 
-  <img src="./assets/s2.png" width="500" />
+  <img src="./assets/s2.png" width="300" />
 
-  <img src="./assets/s3.png" width="500" />
+  <img src="./assets/s3.png" width="300" />
 
 </div>
 
